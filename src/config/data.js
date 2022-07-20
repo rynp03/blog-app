@@ -46,7 +46,7 @@ export const blogList = [
       Someone once told me 'you matter because you exist and you exist because you matter.' 
       How about trying to be you for once?
       So that not only 'sharma ji ka beta' but 'you' will set more examples alongside others!
-      " I have decided to work on my photography skills from now. I know you'll be disappointed right now, but not in the near future," answered the child.
+      "I have decided to work on my photography skills from now. I know you'll be disappointed right now, but not in the near future," answered the child.
       `,
     authorName: "Gaythri Nair",
     authorAvatar: "/assets/images/author.jpg",

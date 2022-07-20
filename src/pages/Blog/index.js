@@ -29,7 +29,7 @@ const Blog = () => {
             <h1>{blog.title}</h1>
           </header>
           <img src={blog.cover} alt="cover" />
-          <p className="blog-desc">{blog.description}</p>
+          <p className="blog-desc" style={{"whiteSpace": "pre-line"}}>{blog.description}</p>
         </div>
       ) : (
         <EmptyList />

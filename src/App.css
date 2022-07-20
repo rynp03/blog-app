@@ -8,11 +8,6 @@
   font-family: "Montserrat", sans-serif;
 }
 
-body{
-  background: #F0F6FF;
-  animation: change 10s ease-in-out infinite;
-}
-
 .container {
   max-width: 1140px;
   width: 95%;
